@@ -1,5 +1,5 @@
 ## to-do list simple 
-#Tecnologias utilizadas:
+##Tecnologias utilizadas:
 -HTML
 -CSS
 -JS
